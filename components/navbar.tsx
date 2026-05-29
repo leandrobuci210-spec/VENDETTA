@@ -14,7 +14,6 @@ const FUNNY_MOMENTS = [
   { src: "/funny/diddy.png", alt: "Draco funny moment" },
   { src: "/funny/nana.png", alt: "Masky and rena nana moment" },
   { src: "/funny/free-access.jpg", alt: "CTB_CHRIS free access moment" },
-  { src: "/funny/analytics.png", alt: "Website analytics" },
   { src: "/funny/rivels.png", alt: "Rivels moment" },
   { src: "/funny/cozet.png", alt: "Cozet funny moment" },
 ]

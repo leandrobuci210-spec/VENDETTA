@@ -68,20 +68,11 @@ export default function Page() {
         <p className="mt-2 font-mono text-sm tracking-[0.5em] text-muted-foreground sm:text-base">COMMUNITY</p>
 
         {/* Staff */}
-        <div className="mt-14 flex flex-col items-center gap-10 sm:flex-row sm:gap-20">
+        <div className="mt-14 flex flex-col items-center gap-10">
           <div className="flex flex-col items-center gap-2">
             <span className="font-mono text-xs tracking-[0.4em] text-muted-foreground">OWNER</span>
             <span className="font-mono text-2xl font-bold tracking-[0.15em] text-foreground drop-shadow-[0_0_18px_rgba(255,255,255,0.35)] sm:text-3xl">
               MASKY
-            </span>
-          </div>
-
-          <span aria-hidden className="hidden h-12 w-px bg-border sm:block" />
-
-          <div className="flex flex-col items-center gap-2">
-            <span className="font-mono text-xs tracking-[0.4em] text-muted-foreground">CO-OWNER</span>
-            <span className="font-mono text-2xl font-bold tracking-[0.15em] text-foreground drop-shadow-[0_0_18px_rgba(255,255,255,0.35)] sm:text-3xl">
-              RISKY
             </span>
           </div>
         </div>

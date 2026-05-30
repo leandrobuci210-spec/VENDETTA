@@ -22,8 +22,8 @@ export function MusicWidget({ playing, muted, onTogglePlay, onToggleMute }: Prop
       </button>
 
       <div className="min-w-0 pr-1 font-mono leading-tight">
-        <p className="truncate text-sm font-bold text-foreground">All Roads</p>
-        <p className="truncate text-xs text-muted-foreground">TyBando</p>
+        <p className="truncate text-sm font-bold text-foreground">On The Radar</p>
+        <p className="truncate text-xs text-muted-foreground">Lee Drilly</p>
       </div>
 
       <button

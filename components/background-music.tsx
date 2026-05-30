@@ -34,5 +34,5 @@ export function BackgroundMusic({ playing, muted }: Props) {
     a.volume = 0.7
   }, [muted])
 
-  return <audio ref={audioRef} src="/all-roads.mp3" loop preload="auto" className="hidden" aria-hidden />
+  return <audio ref={audioRef} src="/lee-drilly-on-the-radar.mp3" loop preload="auto" className="hidden" aria-hidden />
 }
